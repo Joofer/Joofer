@@ -1,10 +1,10 @@
 # Hi there!
 
-🖐 My name is Andrey and here I am gonna guide you through my dev self :)
+🖐 My name is Andrey and here I am gonna guide you through the dev part of myself :)
 
 ✨ Currently I am working on making efficient data transfer between microservices via REST and message queues as well as on creating complex but easy-in-use real-time web app experiences.
 
-🕶 Here are some technologies that I use:
+🕶 These are some of the technologies I use:
 
 For APIs:
 
